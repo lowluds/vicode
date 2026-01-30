@@ -38,7 +38,7 @@ vicode is a project-first workspace where builders publish projects, share progr
 
 ## Who it's for
 
-- Indie devs, indie hackers, solo builders
+- Indie devs, learners, solo builders
 - Designers and makers shipping digital products
 - Tool and template creators (kits)
 - Builders looking for collaborators or proof-based opportunities
